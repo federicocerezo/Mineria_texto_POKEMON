@@ -26,7 +26,7 @@ Este proyecto de Google Colab es una herramienta integral para entrenadores Pok�
 ##  Cómo Usar
 
 1.  **Abrir en Google Colab**: Haz clic en el siguiente enlace para abrir el notebook directamente en Google Colab:
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ENLACE_A_TU_NOTEBOOK_DE_COLAB)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JUnQh2yLxX1JvTmkSwQd-atp7B30kAM3#scrollTo=7FomYg9V0vEj)
 2.  **Ejecutar Todas las Celdas**: Una vez abierto, simplemente ve a `Entorno de ejecución` > `Ejecutar todas las` (o presiona `Ctrl+F9`).
     -   El notebook se encargará automáticamente de instalar las dependencias necesarias, realizar el scraping de datos, entrenar el modelo de NLP y presentar los equipos óptimos.
 3.  **Explorar el Resultado**: Al finalizar la ejecución, verás las gráficas de los equipos defensivos y ofensivos, así como la visualización interactiva del equipo final con sus movimientos recomendados.
